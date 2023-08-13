@@ -1,0 +1,72 @@
+body {
+	background-color: #000;
+	color: black;
+	font-family: Arial, sans-serif;
+}
+
+.container {
+	color: #FFFF;
+	margin: auto;
+	margin-top: 125px;
+	margin-left: 3px;
+	width: 550px;
+	height: 550px;
+	text-align: center;
+	font-family: League Spartan;
+}
+
+.baslik {
+	font-family: League Spartan;
+	font-weight: 600;
+	font-size: 50px;
+  }
+  
+  .aciklama {
+	font-family: Montserrat;
+	font-weight: 300;
+	font-size: 20px;
+	margin-top: -20px;
+  }
+
+  .hakkimda {
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: 150;
+	font-size: 16px;
+	margin-top: -470px;
+	margin-left: 90px;
+	color: #FFFF;
+	max-width: 400px;
+	max-height: 700px;
+	text-align: center;
+  }
+
+img {
+	border-radius: 50%;
+	width: 350px;
+	height: 350px;
+	position: absolute;
+    top: 500px;
+    left: 800px;
+    margin-top: -325px;
+    margin-left: -125px;
+}
+
+h1 {
+	font-size: 48px;
+	font-weight: bold;
+}
+
+.linkedin {
+	margin-left: 285px;
+	margin-top: -27px;
+}
+
+.github {
+	margin-left: 240px;
+	margin-top: 30px;
+}
+
+.twitter {
+	margin-left: 330px;
+	margin-top: -30px;
+}
